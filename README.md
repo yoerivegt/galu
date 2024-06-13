@@ -16,7 +16,7 @@ go install github.com/yoerivegt/galu@latest
 ```
 
 # Useful or suggestions?
-Let me know through [github issues](https://github.com/CrunchV1/galu/issues) or discord (`0xcrunch`)!
+Let me know through [github issues](https://github.com/yoerivegt/galu/issues) or discord (`0xcrunch`)!
 
 # Disclaimer
 I'm far away from being an experienced programmer, just a simple bug hunter. You might not want to read this code if you appreciate prettiness and cleanliness. I'm not responsible for any heart attacks.
