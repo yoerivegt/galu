@@ -12,7 +12,7 @@ Please download the galu bash file and **ensure it's located within a directory 
 
 Example:
 ```bash
-go install https://github.com/yoerivegt/galu@latest
+go install github.com/yoerivegt/galu@latest
 ```
 
 # Useful or suggestions?
