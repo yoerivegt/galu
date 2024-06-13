@@ -4,7 +4,7 @@ Galu uses the output of for example [gau](https://github.com/lc/gau), [waybackur
 # Usage:
 Example:
 ```bash
-$ waymore -i example.com -mode U | galu
+waymore -i example.com -mode U | galu
 ```
 
 # Installation:
